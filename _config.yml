@@ -1,15 +1,13 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: 0xF444
+description: "Welcome to my technical blog!"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: omar.mukhtar4444@gmail.com
+github_username: https://github.com/0xF444
+twitter_username: https://twitter.com/0xF444
+linkedin_username: https://www.linkedin.com/in/0xf444/
 
 # External API
 giscus_repo:
