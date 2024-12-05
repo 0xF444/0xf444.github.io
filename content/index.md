@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: About me
 ---
+Welcome to my technical blog!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# About Me
+My name is Omar Mokhtar and I'm an aspiring blue teamer: may it be SOC analysis, DFIR or malware analysis (my personal favorite).
+
+The blog is currently under construction!
