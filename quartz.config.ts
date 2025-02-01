@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Atkinson Hyperlegible",
         body: "Atkinson Hyperlegible",
-        code: "Fira Code",
+        code: "Cascadia Code Mono",
       },
       colors: {
         lightMode: {
