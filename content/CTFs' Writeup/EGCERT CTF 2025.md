@@ -1,9 +1,7 @@
 ---
 title: EGCERT CTF 2025
 tags:
-  - ctf
-cover: "![[Pasted image 20250525051254.png]]"
-last-modified: 
+  - ctf 
 draft: false
 ---
 ![[Pasted image 20250526071321.png]]
