@@ -1,7 +1,8 @@
 ---
 title: EGCERT CTF 2025
 tags:
-  - ctf 
+  - CTF
+  - "#Reverse-Engineering"
 draft: false
 ---
 ![[Pasted image 20250526071321.png]]
