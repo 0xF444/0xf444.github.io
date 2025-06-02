@@ -1,3 +1,9 @@
+---
+tags:
+  - "#CTF"
+  - "#Reverse-Engineering"
+---
+
 Hello everyone and welcome to my writeup for the [N0PSctf](https://ctf.nops.re/) CTF!
 ![[Pasted image 20250602100712.png]]
 In this writeup we'll be solving the `Invaders` challenge from PwnTopia (Reverse Engineering)
@@ -106,3 +112,4 @@ Regardless, the challenge was loads of fun either way.
 
 Thanks for reading till the end and see you on the next one! GGWP!
 
+[^1]: 
