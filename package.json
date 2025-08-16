@@ -97,7 +97,8 @@
     "vfile": "^6.0.3",
     "workerpool": "^9.3.2",
     "ws": "^8.18.2",
-    "yargs": "^18.0.0"
+    "yargs": "^18.0.0",
+    "yoga-wasm-web": "^0.3.3"
   },
   "devDependencies": {
     "@types/d3": "^7.4.3",
